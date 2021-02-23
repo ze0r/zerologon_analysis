@@ -1,2 +1,2 @@
 # zerologon_analysis
-A slids of zerologon analysis.
+一个关于zerologon的分析学习PPT
